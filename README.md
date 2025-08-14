@@ -8,7 +8,8 @@
 const Carlos = {
 
 objective: "Contribute as a Data Engineer or Full Stack Developer,
-            designing scalable solutions that combine high-performance architecture,
+            designing scalable solutions
+            that combine high-performance architecture,
             data processing, and modern web development."
 };
 ```
