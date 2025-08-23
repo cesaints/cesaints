@@ -79,6 +79,51 @@ I am a multidisciplinary technology professional with proven experience in softw
     src="https://devicon-website.vercel.app/api/react/original-wordmark.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Php" 
+    title="Php"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/php/original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/csharp/original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt=".NET" 
+    title=".NET"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQL Server" 
+    title="SQL Server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MYSQL" 
+    title="MYSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" 
+/>
+
 <br/>
 
 
