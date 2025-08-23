@@ -52,6 +52,32 @@ I am a multidisciplinary technology professional with proven experience in softw
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Javascript" 
+    title="Javascript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/javascript/original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/nextjs/original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/react/original-wordmark.svg" 
+/>
 
 <br/>
 
