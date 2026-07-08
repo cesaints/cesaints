@@ -2,7 +2,7 @@
  
 ### Head of Product · RevOps · Software Architect
  
-> Product leader who came up through engineering — I still read and write code, and I decide with evidence.
+> Product leader who came up through engineering. I still read and write code, and I decide with evidence.
  
 <pre><code>const cadu = {
   role: "Head of Product",
