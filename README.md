@@ -1,11 +1,11 @@
 # Carlos Eduardo · Cadu
  
-### Head of Product · RevOps · Software Architect
+### CPO/CTO · RevOps · Software Architect
  
-> Product leader who came up through engineering. I still read and write code, and I decide with evidence.
+> CTO who came up through engineering. I still read and write code, and I decide with evidence.
  
 <pre><code>const cadu = {
-  role: "Head of Product",
+  role: "CPO/CTO & Software Engineer",
   org: "Distópico · +55 Business Solutions",
   owns: ["product strategy", "RevOps", "software architecture"],
   roots: "full-stack engineering still hands-on when it counts",
