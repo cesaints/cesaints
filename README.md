@@ -43,7 +43,7 @@ repositories document learning exercises and experiments.
 
 ## Security, in progress
 
-I'm studying **Solyd ONE** and **Angela Yu's Python bootcamp**. Both are
+I'm studying **Solyd ONE**, **curso.dev** and **Angela Yu's Python bootcamp**. Both are
 in progress. I'm strengthening my Python foundations while building the
 knowledge for an entry-level offensive security role.
 
