@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="340" viewBox="0 0 1120 340">
+  <title>Carlos Eduardo, architectural drawing</title>
+  <desc>A decorative drawing of a client, a trust boundary and a service.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0v28" fill="none" stroke="#E0EDFF" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1120" height="340" rx="18" fill="#102442"/>
+  <rect x="1" y="1" width="1118" height="338" rx="17" fill="url(#grid)"/>
+  <g font-family="'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#E0EDFF">
+    <text x="52" y="148" font-size="82" font-weight="700" letter-spacing="-3.5">Carlos Eduardo</text>
+    <text x="56" y="205" font-size="32">Systems have boundaries.</text>
+  </g>
+  <g stroke="#91BCFF" stroke-width="1.5" fill="none">
+    <path d="M56 258h580M56 67v-14m-7 7h14M636 67v-14m-7 7h14"/>
+  </g>
+  <g font-family="'Trebuchet MS', 'Segoe UI', Arial, sans-serif" stroke="#91BCFF" stroke-width="2" fill="none">
+   <g transform="translate(738 81)">
+    <rect x="0" y="40" width="116" height="84" rx="8"/>
+    <path d="M116 82h40m28 0h40m-11-7 11 7-11 7"/>
+    <path d="M170 0v164" stroke-dasharray="7 7"/>
+    <rect x="224" y="40" width="112" height="84" rx="8"/>
+    <g fill="#E0EDFF" stroke="none" font-size="22">
+      <text x="58" y="90" text-anchor="middle">Client</text>
+      <text x="280" y="90" text-anchor="middle">Service</text>
+      <text x="170" y="200" text-anchor="middle" font-size="20">Trust boundary</text>
+    </g>
+   </g>
+  </g>
+</svg>
