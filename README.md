@@ -53,7 +53,6 @@ with a disciplined approach to understanding and testing trust boundaries.
 
 ## Background and contact
 
-My CTO/CPO roles at **+55Hub** and **Distópico** ended on **13 October 2026**.
 The [public career timeline](https://cesaints.dev/en/career) gives the wider
 context without tying private systems to named companies.
 
